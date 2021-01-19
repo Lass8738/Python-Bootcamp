@@ -1,2 +1,2 @@
 # Python-Bootcamp
-This from the notes from the Udemy course
+These notes are from the Udemy course
